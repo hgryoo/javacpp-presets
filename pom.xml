@@ -60,7 +60,8 @@
     <module>mxnet</module>
     <module>tensorflow</module>
     <module>liquidfun</module>
-    <module>javacpp-iso</module>
+    
+    <module>sfcgal-iso</module>
   </modules>
 
   <prerequisites>

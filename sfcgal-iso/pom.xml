@@ -6,10 +6,10 @@
     <version>1.3.3-SNAPSHOT</version>
   </parent>
   
-  <artifactId>javacpp-iso</artifactId>
+  <artifactId>sfcgal-iso</artifactId>
   <version>1.3.0-${project.parent.version}</version>
   
-    <dependencies>
+  <dependencies>
     <dependency>
       <groupId>org.bytedeco</groupId>
       <artifactId>javacpp</artifactId>
