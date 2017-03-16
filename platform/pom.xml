@@ -38,6 +38,9 @@
     <module>../mxnet/platform</module>
     <module>../tensorflow/platform</module>
     <module>../liquidfun/platform</module>
+    
+    
+    <module>../sfcgal-iso-platform</module>
   </modules>
 
   <dependencies>
